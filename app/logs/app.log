@@ -1,0 +1,8 @@
+2025-07-24 15:10:02,448 - INFO - Model and metadata loaded successfully.
+2025-07-24 15:11:18,498 - INFO - Prediction made: {'prediction': 0, 'species': 'Adelie', 'probabilities': {'Adelie': 0.9989, 'Chinstrap': 0.0008, 'Gentoo': 0.0003}}
+2025-07-24 15:22:31,567 - INFO - Model and metadata loaded successfully.
+2025-07-24 15:22:38,594 - INFO - Model and metadata loaded successfully.
+2025-07-24 15:22:41,411 - INFO - Model and metadata loaded successfully.
+2025-07-24 15:22:48,870 - INFO - Model and metadata loaded successfully.
+2025-08-08 13:05:32,074 - INFO - Model and metadata loaded successfully.
+2025-08-08 13:09:49,240 - INFO - Model and metadata loaded successfully.

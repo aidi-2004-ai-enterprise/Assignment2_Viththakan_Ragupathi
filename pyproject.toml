@@ -1,0 +1,9 @@
+[project]
+name = "lab3-viththakan-ragupathi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "locust>=2.38.0",
+]

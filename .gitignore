@@ -1,0 +1,10 @@
+.venv/
+venv/
+venv/
+venv/
+.env/
+
+
+.gcp/
+.env
+*.json
